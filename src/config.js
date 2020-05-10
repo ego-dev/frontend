@@ -1,1 +1,1 @@
-export const API_URL = "https://ego.labs.cip.fun/api";
+export const API_URL = "https://moisil.news/api";
