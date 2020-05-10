@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/api"
+  to = "http://rmn-01.n.cip.fun:8123/api"
+  status = 200
+  force = true
+  headers = {Authorization = "Basic dGVzdC0wMUBleGFtcGxlLmNvbTpwYXJvbGE3NjU0MzIx"}

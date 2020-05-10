@@ -1,3 +1,2 @@
-/api	http://rmn-01.n.cip.fun:8123/api			200
-/api/*	http://rmn-01.n.cip.fun:8123/api/:splat		200
-/*		/index.html									200
+/*							/index.html						200
+https://ego.labs.cip.fun/*	http://ego.labs.cip.fun/:splat	301!
